@@ -1,0 +1,39 @@
+
+PROJECT TITLE:
+Career Progression and Promotion Gap Analysis
+for Retention Optimization at Palo Alto Networks
+
+1. PROJECT OBJECTIVE:
+To analyze employee career progression,
+promotion gaps and employee retention.
+
+2. DATA ANALYSIS:
+Employee dataset analysis completed.
+
+3. CLUSTERING:
+K-Means Clustering performed.
+
+4. KPI ANALYSIS:
+Promotion Gap
+Role Stagnation
+Training Intensity
+Manager Stability
+
+5. FINAL RESULTS:
+
+
+FINAL CLUSTER SUMMARY:
+                      Age  Attrition   DailyRate  DistanceFromHome  Education  EnvironmentSatisfaction  HourlyRate  JobInvolvement  JobLevel  JobSatisfaction  MonthlyIncome   MonthlyRate  NumCompaniesWorked  PercentSalaryHike  PerformanceRating  RelationshipSatisfaction  StockOptionLevel  TotalWorkingYears  TrainingTimesLastYear  WorkLifeBalance  YearsAtCompany  YearsInCurrentRole  YearsSinceLastPromotion  YearsWithCurrManager  PromotionGapRatio  RoleStagnationIndex  TrainingIntensityScore  ManagerStabilityIndicator  Attrition_Flag
+Career_Cluster                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+0               42.542929   0.090909  795.828283          9.191919   3.068182                 2.803030   66.222222        2.727273  3.262626         2.714646   11468.396465  14574.098485            2.760101          14.252525           3.055556                  2.727273          0.863636          19.621212               2.775253         2.772727       13.621212            7.858586                 5.060606              7.568182           0.395670             0.638409                0.306986                   0.607764             NaN
+1               34.608046   0.188506  805.847126          9.098851   2.864368                 2.701149   65.788506        2.737931  1.577011         2.729885    4494.955172  14280.559770            2.688506          14.102299           3.000000                  2.726437          0.762069           7.809195               2.817241         2.755172        4.287356            2.657471                 0.982759              2.650575           0.261540             0.573775                1.046858                   0.559592             NaN
+2               35.892157   0.181373  801.073529          9.593137   2.818627                 2.651961   65.686275        2.700980  1.813725         2.750000    5427.514706  13945.254902            2.583333          21.789216           4.000000                  2.622549          0.794118           9.887255               2.769608         2.764706        5.774510            3.887255                 1.750000              3.715686           0.264429             0.605170                0.827098                   0.580529             NaN
+
+6. RECOMMENDATIONS:
+- Improve employee promotion opportunities.
+- Provide career development programs.
+- Improve employee training.
+- Monitor employee retention.
+- Strengthen manager engagement.
+
+PROJECT STATUS: COMPLETED
